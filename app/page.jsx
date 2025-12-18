@@ -43,9 +43,9 @@ export default async function Home() {
             <Image
               src="/logo.png"
               alt="Deal Drop Logo"
-              width={600}
-              height={200}
-              className="h-10 w-auto"
+              width={700}
+              height={300}
+              className="h-12 w-auto"
             />
           </div>
 
